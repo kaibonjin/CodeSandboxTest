@@ -109,7 +109,9 @@
 
 /**
  *  分割代入
- */ // const myProfile = {
+ */
+
+// const myProfile = {
 //   name: "じゃけ",
 //   age: 28
 // };
